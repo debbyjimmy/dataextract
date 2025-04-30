@@ -1,3 +1,4 @@
+// Google Apps Script for monthly performance metric updates
 function updateMonthlyMetricsFromExternalSheet() {
   // Step 1: Config
   const sourceSheetName = '..';
